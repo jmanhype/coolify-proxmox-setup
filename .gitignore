@@ -1,0 +1,4 @@
+.env
+.env.backup
+*.log
+.DS_Store
